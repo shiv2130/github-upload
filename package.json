@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shiv2130/github-upload/issues"
   },
-  "homepage": "https://github.com/shiv2130/github-upload#readme"
+  "homepage": "https://github.com/shiv2130/github-upload#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
