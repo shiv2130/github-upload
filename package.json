@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shiv2130/github-upload#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
